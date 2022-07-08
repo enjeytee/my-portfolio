@@ -15,7 +15,7 @@
     
     --clr-light: #fff;
     --clr-dark: #303030;
-    --clr-accent: #e55e5e;
+    --clr-accent: #5ee570;
     
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -377,7 +377,7 @@ header {
     .about-me__img {
         grid-area: img;
         position: relative;
-        z-index: 2;
+        z-index: 5;
     }
 }
 
